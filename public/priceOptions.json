@@ -1,0 +1,23 @@
+[
+      {
+        "id": 1,
+        "name": "Basic Plan",
+        "price": 29.99,
+        "features": ["Access to gym equipment", "Locker room access", "Free Wi-Fi"]
+      },
+      {
+        "id": 2,
+        "name": "Standard Plan",
+        "price": 49.99,
+        "features": ["Everything in Basic Plan", "Group fitness classes", "1 personal training session/month"]
+      },
+      {
+        "id": 3,
+        "name": "Premium Plan",
+        "price": 69.99,
+        "features": ["Everything in Standard Plan", "Unlimited personal training", "Access to swimming pool & sauna", "Priority support"]
+      }
+]
+
+
+  
